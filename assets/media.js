@@ -4,7 +4,7 @@
    No portrait or gallery photos were supplied with the original CV. */
 window.PORTFOLIO_MEDIA = {
   profile: {
-    src: '', // Example: 'assets/photos/profile.jpg'
+    src: 'assets/Profile_pic.jpg', // Example: 'assets/photos/profile.jpg'
     alt: 'Portrait of Pratik Patil',
     position: '50% 50%' // Adjust cropping if needed, e.g. '50% 35%'.
   },
